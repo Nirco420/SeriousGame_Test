@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa355e76d1159054b9f8b1f45ab13426, type: 3}
+  m_Name: StorrageDataWheed
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingData
+  description: 
+  costResource: {fileID: 0}
+  cost: 0
+  type: 1
+  resource: {fileID: 11400000, guid: aade4415588b3f64bb1e1a2a132fe1ce, type: 2}
+  resourceQuantity: 0
+  maxStorage: 10
